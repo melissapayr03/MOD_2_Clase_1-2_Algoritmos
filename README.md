@@ -1,2 +1,17 @@
-# MOD_2_Clase_1-2_Algoritmos
-Tarea de la clase 1 y 2 que corresponde al módulo 2 "Lógica y Algoritmos"
+# PROYECTOS
+**CLASE 1:** Proyecto "Introducción a ECMAScript".
+**CLASE 2:** Proyecto"Estructuras de Datos".
+
+# Estructura de los proyecto
+**Proyecto 1:**
+```text
+proyecto/
+│
+├── index.html
+├── registrar_1.js
+├── viajes_1.js
+└── estilos_1.css
+```
+
+**Proyecto 2:**
+
