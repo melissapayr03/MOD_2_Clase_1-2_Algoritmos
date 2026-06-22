@@ -1,6 +1,6 @@
 # PROYECTOS
-**CLASE 1:** Proyecto "Introducción a ECMAScript".
-**CLASE 2:** Proyecto"Estructuras de Datos".
+- **CLASE 1:** Proyecto "Introducción a ECMAScript".
+- **CLASE 2:** Proyecto "Estructuras de Datos".
 
 # Estructura de los proyecto
 **Proyecto 1:**
