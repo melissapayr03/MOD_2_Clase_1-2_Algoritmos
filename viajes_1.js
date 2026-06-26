@@ -15,7 +15,7 @@ const bienvenido = () => "¡BIENVENIDO A PLANIFICA TU VIAJE!";
 /* Función para calcular costos */
 const calcularCosto = (destino, transporte) => {
     let costo = 0;
-    if(destino === "Querètaro") {
+    if(destino === "Querétaro") {
         costo = 1300;
     }
     else if(destino === "Guadalajara") {
